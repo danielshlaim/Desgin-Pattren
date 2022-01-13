@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProxyHomeWork
+namespace Prototype
 {
-    internal class ServiceMachine
+    internal class Invoice
     {
     }
 }
